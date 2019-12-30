@@ -1,0 +1,55 @@
+nav {
+    background-color: purple;
+    font-family: 'Oswald', sans-serif;    
+    
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background-image: url(../img/bg_hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    padding-bottom: 10rem;
+    font-family: 'Oswald', sans-serif;    
+}
+
+.line {
+    border-top: 3px solid black ;
+    width: 5%;
+    margin: 0 auto;
+}
+
+.line-work {
+        border-top: 3px solid white;
+        width: 5%;
+        margin: 0 auto;
+ }
+
+.my-experience {
+    color: purple;
+    font-family: 'Oswald', sans-serif;   
+}
+
+.last-works {
+    font-family: 'Oswald', sans-serif;  
+}
+
+.card-decks {
+    background-color: purple;
+
+}
+
+.typeform {
+    background-color: white;
+    font-family: 'Oswald', sans-serif;  
+}
+footer {
+    background-color: purple;
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;  
+}
+
